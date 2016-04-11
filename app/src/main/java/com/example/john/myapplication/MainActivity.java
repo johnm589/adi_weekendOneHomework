@@ -117,8 +117,8 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
-            gradeButton.setOnClickListener(buttonOnClickListener);
-            fiveButton.setOnClickListener(buttonOnClickListener2);
+        gradeButton.setOnClickListener(buttonOnClickListener);
+        fiveButton.setOnClickListener(buttonOnClickListener2);
 
 
     }
